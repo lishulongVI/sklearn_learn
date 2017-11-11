@@ -16,7 +16,7 @@ conda config --remove channels 'https://mirrors.tuna.tsinghua.edu.cn/anaconda/pk
 ### 常用函数
 
 
-  | application | algorithm
+NAN | application | algorithm
 ---|---|---
 classification (分类)| 异常检测，图像识别 | KNN,SVM
 clustering （聚类））| 图像分割，群体划分 | K-Means,谱聚类
